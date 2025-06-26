@@ -5,13 +5,11 @@
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
 
-<p align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
 
 ## About Me  
 <h3 align="center">A passionate developer ,seeking to learn more.</h3>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manya0407&label=Profile%20views&color=0e75b6&style=flat" alt="manya-github" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrateekS-99&label=Profile%20views&color=0e75b6&style=flat" alt="Prateek_github" /> </p>  
 
 - 🔭 I’m currently working on **App Development** and **Web Development**.  
 - 🌱 I’m currently learning **Python**,**Java** and **React&Javascript**.      
