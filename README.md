@@ -4,9 +4,7 @@
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
-<p align="center">
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="600">
-</p>
+
 <p align="right">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
 
