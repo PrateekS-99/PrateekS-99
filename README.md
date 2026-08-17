@@ -1,55 +1,21 @@
-### Hi there! I'm Prateek Kumar Srivastava <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+<h1 align="center">Hi, I'm Prateek Kumar Srivastava 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7831B&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(Cloud+Computing)+Student;Building+Distributed+%26+Cloud-Native+Systems;Aspiring+SDE+%2F+DevOps+Engineer" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=PrateekS-99&label=Profile%20views&color=f7831b&style=flat" alt="Profile views" /> <img src="https://img.shields.io/badge/CGPA-8.83%2F10-blue" alt="CGPA" /> </p>
+🚀 About Me
+🎓 B.Tech in Computer Science (Cloud Computing) at SRM IST, Ghaziabad — Class of 2027
+☁️ Hands-on experience designing and deploying distributed, containerized systems on Kubernetes
+🎯 Currently seeking Software Development & DevOps internship opportunities
+🧠 Strong foundation in data structures, algorithms, and system design
+📜 Certified: NPTEL – Natural Language Programming, IBM – Python for Data Science (PY0101EN)
+💻 Featured Projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=F7831B&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+profile!;I'm+a+Software+Developer+Enthusiast!)](https://git.io/typing-svg)  
+🔹 Distributed Rate Limiter — Jun 2026 – Present Python (Flask) Redis Docker Kubernetes Building a distributed rate limiter using Redis to enforce consistent API request limits across service instances, with token-bucket throttling via atomic Redis operations. In progress: load testing and horizontal-scaling deployment on Kubernetes.
 
-<p align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
+🔹 AI-Driven Kubernetes Autoscaling for ML Services — Jan 2026 – May 2026 Python Kubernetes Docker Prometheus Designed a latency-aware hybrid autoscaling mechanism for ML inference workloads to overcome the limits of CPU-only Kubernetes HPA, using Prometheus metrics (latency, request rate, CPU) to drive dynamic replica adjustment. Outperformed default HPA on response stability and resource oscillation.
 
-
-## About Me  
-<h3 align="center">A passionate developer ,seeking to learn more.</h3>  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrateekS-99&label=Profile%20views&color=0e75b6&style=flat" alt="Prateek_github" /> </p>  
-
-- 🔭 I’m currently working on **App Development** and **Web Development**.  
-- 🌱 I’m currently learning **Python**,**Java** and **React&Javascript**.      
-
-## Languages and Tools  
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-</p>  
-
-## 🌐 Connect with Me  
-<p align="left">  
-  <a href="https://www.linkedin.com/in/prateek-kumar-srivastava-381846317/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek" height="30" width="40" />
-  </a>  
-
-  <a href="https://www.hackerrank.com/profile/prateek_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prateek_99" height="30" width="40" /></a>
-</p>  
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="100">  
-
-## 📊 GitHub Stats:  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrateekS-99&show_icons=true&theme=radical&locale=en"  /></p>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekS-99&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></p>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekS-99&theme=highcontrast"  /></p>  
+🧰 Languages & Tools
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PrateekS-99&show_icons=true&theme=radical&locale=en&hide_border=true" alt="GitHub Stats" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekS-99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekS-99&theme=highcontrast&hide_border=true" alt="Streak Stats" /> </p>
+🌐 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/prateek-kumar-srivastava-381846317/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> <a href="https://www.hackerrank.com/profile/prateek_99" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /> </a> </p>
 
 
